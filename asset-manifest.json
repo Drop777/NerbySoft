@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.359330d5.chunk.css",
-    "main.js": "/my-app/static/js/main.da5cf4f0.chunk.js",
-    "main.js.map": "/my-app/static/js/main.da5cf4f0.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.74992542.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.74992542.js.map",
-    "static/js/2.18bc2384.chunk.js": "/my-app/static/js/2.18bc2384.chunk.js",
-    "static/js/2.18bc2384.chunk.js.map": "/my-app/static/js/2.18bc2384.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.8927237d9aac5acfb91336e26b1c68f4.js": "/my-app/precache-manifest.8927237d9aac5acfb91336e26b1c68f4.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.359330d5.chunk.css.map": "/my-app/static/css/main.359330d5.chunk.css.map"
+    "main.css": "/NerbySoft/static/css/main.359330d5.chunk.css",
+    "main.js": "/NerbySoft/static/js/main.e7de6a54.chunk.js",
+    "main.js.map": "/NerbySoft/static/js/main.e7de6a54.chunk.js.map",
+    "runtime-main.js": "/NerbySoft/static/js/runtime-main.a514f10a.js",
+    "runtime-main.js.map": "/NerbySoft/static/js/runtime-main.a514f10a.js.map",
+    "static/js/2.18bc2384.chunk.js": "/NerbySoft/static/js/2.18bc2384.chunk.js",
+    "static/js/2.18bc2384.chunk.js.map": "/NerbySoft/static/js/2.18bc2384.chunk.js.map",
+    "index.html": "/NerbySoft/index.html",
+    "precache-manifest.83524d140d025bbcac9693e2c18b3ad3.js": "/NerbySoft/precache-manifest.83524d140d025bbcac9693e2c18b3ad3.js",
+    "service-worker.js": "/NerbySoft/service-worker.js",
+    "static/css/main.359330d5.chunk.css.map": "/NerbySoft/static/css/main.359330d5.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.74992542.js",
+    "static/js/runtime-main.a514f10a.js",
     "static/js/2.18bc2384.chunk.js",
     "static/css/main.359330d5.chunk.css",
-    "static/js/main.da5cf4f0.chunk.js"
+    "static/js/main.e7de6a54.chunk.js"
   ]
 }
