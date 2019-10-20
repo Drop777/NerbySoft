@@ -1,0 +1,7 @@
+.list-item-form {
+    display: flex;
+    justify-content: space-between;
+    min-width: 500px;
+    max-width: 750px;
+    margin: 30px auto;
+}

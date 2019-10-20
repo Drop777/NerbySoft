@@ -1,0 +1,12 @@
+.add-task-form {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    margin: 30px auto;
+    margin-bottom: 60px;
+}
+
+.user-card {
+    width: 400px;
+    margin: 25px auto;
+}
