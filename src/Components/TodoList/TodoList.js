@@ -128,10 +128,10 @@ class TodosUser extends React.Component {
                     <Button variant="contained" color="primary" type="submit">
                         Add
                     </Button>
-                    {hasError && (
-                        <smal>Enter task</smal>
-                    )}
                 </form>
+                {hasError && (
+                    <smal>Enter task</smal>
+                )}
                 <ul>
                     {currentUser.todos.map(todo => <TodoItem key={todo.id} todo={todo} selected={todo.selected} />)}
                 </ul>
